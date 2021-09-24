@@ -1,6 +1,12 @@
 # S2ML Art Generator
 
 # Changelog
+## Version 1.5.2_a01
+#### September 23, 2021
+- Beginning of sadnow fork a01
+
+---
+
 ## Version 1.5.2
 - CLIP-Guided diffusion method now allows for a variable number of steps.
 
